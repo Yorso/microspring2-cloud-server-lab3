@@ -6,7 +6,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 /*
  * Try:
- * 		http://localhost:8001/lab-3-client/default/  => You should see the JSON result that will actually be used by Spring
+ * 		http://localhost:8001/microspring2-cloud-client-lab3/default/  => You should see the JSON result that will actually be used by Spring
  * 
  */
 @SpringBootApplication
