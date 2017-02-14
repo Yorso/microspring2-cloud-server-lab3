@@ -7,7 +7,7 @@
 	<artifactId>microspring2-cloud-server-lab3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
+ 
 	<name>microspring2-cloud-server-lab3</name>
 	<description>Spring Cloud Server</description>
 

@@ -6,5 +6,5 @@ spring:
         git:
           uri: https://github.com/Yorso/ConfigData-lab3
 
-server:
+server: 
   port: 8001

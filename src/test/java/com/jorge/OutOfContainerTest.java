@@ -22,7 +22,7 @@ import org.springframework.web.context.WebApplicationContext;
  * Verifies that the server serves up configuration when asked.
  * Uses "native" profile to obtain properties from local file system rather than GitHub.
  * 
- * @author ken krueger
+ * @author ken krueger 
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Microspring2CloudServerApplication.class)
