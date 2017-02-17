@@ -4,7 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Yorso/ConfigData-lab3
+          uri: https://github.com/Yorso/microspring-config-data
 
 server: 
   port: 8001
